@@ -24,4 +24,12 @@ Após clonar o repositório, abra a pasta com o VS Code e rode o index.html usan
 ```python
 pip install selenium && python Script.py
 ```
+## Testes
+Sucesso
+
+<img src="sucess.png">
+
+Falha
+
+<img src="fail.png">
 
